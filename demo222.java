@@ -1,7 +1,8 @@
-public class DEMO
+public class DEMO222
 {
 	public static void main(STRING[] args)
-	{
+	{        
+                    for(int i=0; i<10;i++)
 		System.out.println("Welcome to Java");
 		
 		
